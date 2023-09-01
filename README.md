@@ -1,1 +1,1 @@
-# wswarung
+# GBOWIN
